@@ -70,7 +70,7 @@ Ensure the following are installed:
 ### 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/Priyanshu3369/Ai-Resume-Analyzer.git
+git clone https://github.com/dhruvsharmadrsh/CV-Wizard.git
 cd Ai-Resume-Analyzer
 📥 Install Dependencies
 bash
